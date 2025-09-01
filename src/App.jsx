@@ -7,12 +7,17 @@ import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import About from './pages/About'
 import Hero1 from './components/Hero1'
+import Hero2 from './components/Hero2'
+import Hero3 from './components/Hero3'
 
 function App() {
 
   return (
     <>
       <Hero1/>
+      <Hero2/>
+      <Hero3/>
+
       <Navbar/>
       <Footer/>
       <About/>

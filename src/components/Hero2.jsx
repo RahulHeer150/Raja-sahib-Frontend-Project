@@ -48,7 +48,7 @@ const ExploreSection = () => {
       {/* Buttons Grid */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mx-auto mt-8">
         {items.map((item, idx) => (
-          <Link
+          <a
             key={idx}
             to={item.link}
             target="_blank"
@@ -65,7 +65,7 @@ const ExploreSection = () => {
             <span className="text-sm md:text-base font-semibold text-center">
               {item.title}
             </span>
-          </Link>
+          </a>
         ))}
       </div>
     </div>
