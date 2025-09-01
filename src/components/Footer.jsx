@@ -28,6 +28,7 @@ const Footer = () => {
         {/* English Links */}
         <div>
           <h3 className="text-white font-semibold mb-3">DHAN RAJA SAHIB JI</h3>
+          <hr className="justify-center"/>
           <ul className="space-y-2 text-sm">
             <li><a href="#" className="hover:text-white">About Raja Sahib Ji</a></li>
             <li><a href="#" className="hover:text-white">Bhagwan Vilas</a></li>
@@ -38,7 +39,7 @@ const Footer = () => {
 
         {/* Punjabi Links */}
         <div>
-          <h3 className="text-white font-semibold mb-3 text-xl">ਨਭ ਕਵਲ ਰਾਜਾ ਸਾਹਿਬ ਜੀ</h3>
+          <h3 className="text-white font-semibold mb-3 text-xl">ਨਾਭ ਕੰਵਲ ਰਾਜਾ ਸਾਹਿਬ ਜੀ</h3>
           <ul className="space-y-2 text-sm">
             <li><a href="#" className="hover:text-white text-lg">ਰਾਜਾ ਸਾਹਿਬ ਜੀ ਬਾਰੇ ਜਾਣੋ</a></li>
             <li><a href="#" className="hover:text-white text-lg">ਭਗਵਾਨ ਵਿਲਾਸ</a></li>
