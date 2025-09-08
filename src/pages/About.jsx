@@ -6,7 +6,7 @@ const About = () => {
       <div className="grid md:grid-cols-2 gap-12">
 
         {/* English Section */}
-        <div className="bg-gray-400">
+        <div className="bg-gray-100">
           <h2 className="text-center text-orange-600 font-bold text-xl md:text-2xl mb-6 uppercase">
             About Raja Sahib Ji
           </h2>
@@ -70,7 +70,7 @@ const About = () => {
         </div>
 
         {/* Punjabi Section */}
-        <div className="bg-white">
+        <div className="bg-white border-2 border-gray-300">
           <h2 className="text-center text-orange-600 font-bold text-xl md:text-2xl mb-6">
             ਰੱਬੀ ਜੋਤ ਧੰਨ ਧੰਨ ਨਾਭ ਕੰਵਲ ਰਾਜਾ ਸਾਹਿਬ ਜੀ
           </h2>
