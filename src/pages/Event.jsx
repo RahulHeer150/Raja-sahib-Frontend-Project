@@ -2,7 +2,8 @@ import React from 'react'
 
 const Event = () => {
   return (
-    <div className=''>
+    <div className='max-w-screen h-screen bg-gray-200'>
+        Event
 
     </div>
   )
