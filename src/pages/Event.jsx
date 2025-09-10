@@ -1,4 +1,5 @@
 import React from 'react'
+import Event_comp from '../components/Event_comp'
 
 const Event = () => {
   return (
